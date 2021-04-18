@@ -1,3 +1,3 @@
 [submodule "youtube-dl"]
-	path = youtube-dl
-	url = https://github.com/ytdl-org/youtube-dl.git
+	path = yt-dl
+	url = https://github.com/cybersammy1920/yt-dl.git
